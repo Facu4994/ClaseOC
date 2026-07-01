@@ -1,0 +1,8 @@
+body{
+    background-image: linear-gradient(rgb(8, 92, 202), white);
+}
+img{
+    border: 2px solid rgb(95 97 110);
+  border-radius: 0.5em;
+  width: 10em;
+}
